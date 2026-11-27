@@ -1,8 +1,9 @@
 ## Emirhan Budak
+**Elektrik-Elektronik Mühendisi** · Gömülü Sistemler · Elektronik Kart Tasarımı · Görüntü İşleme
 
-Elektrik-Elektronik Mühendisi (Kırıkkale Üniversitesi, 2026). Gömülü sistemler, güç
-elektroniği ve görüntü işleme alanlarında çalışıyorum. Halen Uluefe Elektrik'te Gökçepınar
-RES projesinde elektrik-elektronik mühendisi olarak şantiye şefliği görevini yürütüyorum.
+Uluefe Elektrik'te Gökçepınar RES projesinde elektrik-elektronik mühendisi olarak
+şantiye şefliği yapıyorum. Gömülü yazılım (STM32), PCB tasarımı (KiCad) ve kısıtlı
+donanımda görüntü işleme üzerine projeler geliştiriyorum.
 
 Donanım ile yazılımın kesiştiği problemlerle ilgileniyorum: bir güç katının ölü zamanını
 ayarlamak ile sınırlı bir GPU'da nesne tespit modelini verimli çalıştırmak bana göre aynı
