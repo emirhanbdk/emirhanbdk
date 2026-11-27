@@ -2,7 +2,7 @@
 **Elektrik-Elektronik Mühendisi** · Gömülü Sistemler · Elektronik Kart Tasarımı · Görüntü İşleme
 
 Uluefe Elektrik'te Gökçepınar RES projesinde elektrik-elektronik mühendisi olarak
-şantiye şefliği yapıyorum. Gömülü yazılım (STM32), PCB tasarımı (KiCad) ve kısıtlı
+şantiye şefliği yapıyorum. Gömülü yazılım (STM32), PCB tasarımı (KiCad, Altium Designer) ve kısıtlı
 donanımda görüntü işleme üzerine projeler geliştiriyorum.
 
 Çalışmalarımı donanım ve yazılımın birlikte tasarlandığı sistemler üzerine
@@ -22,7 +22,7 @@ navigasyon, IoT çevresel izleme (TEKNOFEST, takım kaptanı).
 
 ### Araçlar
 
-**Gömülü ve donanım:** STM32 (HAL, CubeIDE), C, KiCad, LTspice, Proteus  
+**Gömülü ve donanım:** STM32 (HAL, CubeIDE), C, KiCad, Altium Designer, LTspice, Proteus  
 **Yapay zekâ ve yazılım:** Python, PyTorch, YOLOv8, OpenCV, FastAPI, ROS2  
 **Diğer:** MATLAB/Simulink, Git
 
