@@ -5,9 +5,9 @@ Uluefe Elektrik'te Gökçepınar RES projesinde elektrik-elektronik mühendisi o
 şantiye şefliği yapıyorum. Gömülü yazılım (STM32), PCB tasarımı (KiCad) ve kısıtlı
 donanımda görüntü işleme üzerine projeler geliştiriyorum.
 
-Donanım ile yazılımın kesiştiği problemlerle ilgileniyorum: bir güç katının ölü zamanını
-ayarlamak ile sınırlı bir GPU'da nesne tespit modelini verimli çalıştırmak bana göre aynı
-mühendislik disiplinini gerektiriyor.
+Çalışmalarımı donanım ve yazılımın birlikte tasarlandığı sistemler üzerine
+yoğunlaştırıyorum. Mikrodenetleyici tabanlı güç elektroniği kontrolü ve kısıtlı donanımda
+çalışan görüntü işleme uygulamaları, bu alandaki başlıca projelerimi oluşturuyor.
 
 ### Projeler
 
